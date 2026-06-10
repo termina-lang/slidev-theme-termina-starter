@@ -21,7 +21,7 @@ Then edit **`slides.md`**. That's it.
 ```
 slides.md      your deck (edit this)
 schedule.ts    data for the <Gantt> / <WBS> diagrams (edit the data only)
-public/        per-deck art — favicon.png + your logos / cover image
+public/        per-deck art — your logos / cover image (favicon is theme-provided)
 package.json   pins the theme version
 ```
 

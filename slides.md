@@ -13,7 +13,6 @@ canvasWidth: 1920
 aspectRatio: 16/9
 lineNumbers: true
 title: Termina Deck — Starter
-favicon: /favicon.png
 htmlAttrs:
   lang: en
 # ── deck knobs (all optional; shown here for reference) ──
