@@ -8,7 +8,7 @@ clone it separately.
 ## Quick start
 
 ```bash
-git clone <this-repo> my-talk
+git clone https://github.com/termina-lang/slidev-theme-termina-starter my-talk
 cd my-talk
 npm install        # pulls the Termina theme from GitHub (pinned tag)
 npm run dev        # opens the deck in your browser, hot-reloads
